@@ -47,13 +47,8 @@ automated analysis of autozone:
 - [View the PDF](./autozone.pdf)
 
 deep reinforcement learning:
-- [View the image](./drl.pdf)
+- [View the PDF](./drl.pdf)
 
 
 
 
-
-canbus.pdf
-drl.pdf
-autozone.pdf
-oswatch.pdf
