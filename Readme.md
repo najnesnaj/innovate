@@ -49,6 +49,9 @@ automated analysis of autozone:
 deep reinforcement learning:
 - [View the PDF](./drl.pdf)
 
-
+blender:
+--------
+some 3D movies, rendered without GPU (HP DL380) 
+https://www.youtube.com/@janjansen3816
 
 
